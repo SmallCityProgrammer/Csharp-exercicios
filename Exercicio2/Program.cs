@@ -59,18 +59,18 @@ namespace Empresa
       Console.WriteLine($"Total {totalVotos}");
 
       int maxVotos = 0;
-      int indiceVencedor = 0;
+      int maiorIndice = 0;
 
       for (int i = 0; i < sistemas.Length; i++)
       {
         if (votos[i] > maxVotos)
         {
           maxVotos = votos[i];
-          indiceVencedor = i;
+          maiorIndice = i;
         }
       }
 
-      Console.WriteLine($"O Sistema Operacional mais votado foi o {sistemas[indiceVencedor]}, com {votos[indiceVencedor]} votos, correspondendo a {(double)maxVotos / totalVotos * 100:F0}% dos votos.");
+      Console.WriteLine($"O Sistema Operacional mais votado foi o {sistemas[maiorIndice]}, com {votos[maiorIndice]} votos, correspondendo a {(double)maxVotos / totalVotos * 100:F0}% dos votos.");
     }
   }
 }
