@@ -1,0 +1,14 @@
+C:\Users\Eliezer Castro\Desktop\lol\testando\bin\Debug\net7.0\Testando.exe
+C:\Users\Eliezer Castro\Desktop\lol\testando\bin\Debug\net7.0\Testando.deps.json
+C:\Users\Eliezer Castro\Desktop\lol\testando\bin\Debug\net7.0\Testando.runtimeconfig.json
+C:\Users\Eliezer Castro\Desktop\lol\testando\bin\Debug\net7.0\Testando.dll
+C:\Users\Eliezer Castro\Desktop\lol\testando\bin\Debug\net7.0\Testando.pdb
+C:\Users\Eliezer Castro\Desktop\lol\testando\obj\Debug\net7.0\Testando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliezer Castro\Desktop\lol\testando\obj\Debug\net7.0\Testando.AssemblyInfoInputs.cache
+C:\Users\Eliezer Castro\Desktop\lol\testando\obj\Debug\net7.0\Testando.AssemblyInfo.cs
+C:\Users\Eliezer Castro\Desktop\lol\testando\obj\Debug\net7.0\Testando.csproj.CoreCompileInputs.cache
+C:\Users\Eliezer Castro\Desktop\lol\testando\obj\Debug\net7.0\Testando.dll
+C:\Users\Eliezer Castro\Desktop\lol\testando\obj\Debug\net7.0\refint\Testando.dll
+C:\Users\Eliezer Castro\Desktop\lol\testando\obj\Debug\net7.0\Testando.pdb
+C:\Users\Eliezer Castro\Desktop\lol\testando\obj\Debug\net7.0\Testando.genruntimeconfig.cache
+C:\Users\Eliezer Castro\Desktop\lol\testando\obj\Debug\net7.0\ref\Testando.dll

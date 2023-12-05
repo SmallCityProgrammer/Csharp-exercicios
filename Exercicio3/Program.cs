@@ -24,7 +24,7 @@ class Program
       }
       else
       {
-        Console.WriteLine("Valor inválido. Por favor, digite um número válido ou 'fim' para encerrar.");
+        Console.WriteLine("Valor inválido. digite um número válido ou 'fim' para encerrar.");
       }
     }
 
