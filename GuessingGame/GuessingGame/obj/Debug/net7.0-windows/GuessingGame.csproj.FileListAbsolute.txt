@@ -1,0 +1,16 @@
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\bin\Debug\net7.0-windows\GuessingGame.exe
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\bin\Debug\net7.0-windows\GuessingGame.deps.json
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\bin\Debug\net7.0-windows\GuessingGame.runtimeconfig.json
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\bin\Debug\net7.0-windows\GuessingGame.dll
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\bin\Debug\net7.0-windows\GuessingGame.pdb
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\obj\Debug\net7.0-windows\GuessingGame.Form1.resources
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\obj\Debug\net7.0-windows\GuessingGame.csproj.GenerateResource.cache
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\obj\Debug\net7.0-windows\GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\obj\Debug\net7.0-windows\GuessingGame.AssemblyInfoInputs.cache
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\obj\Debug\net7.0-windows\GuessingGame.AssemblyInfo.cs
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\obj\Debug\net7.0-windows\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\obj\Debug\net7.0-windows\GuessingGame.dll
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\obj\Debug\net7.0-windows\refint\GuessingGame.dll
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\obj\Debug\net7.0-windows\GuessingGame.pdb
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\obj\Debug\net7.0-windows\GuessingGame.genruntimeconfig.cache
+C:\Users\Eliezer Castro\Desktop\New Century\GuessingGame\GuessingGame\obj\Debug\net7.0-windows\ref\GuessingGame.dll
