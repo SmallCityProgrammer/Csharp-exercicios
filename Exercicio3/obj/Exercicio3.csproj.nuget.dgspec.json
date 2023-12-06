@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eliezer Castro\\desktop\\new century\\exercicio3\\Exercicio3.csproj": {}
+    "C:\\Users\\Eliezer Castro\\Desktop\\New Century\\exercicio3\\Exercicio3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eliezer Castro\\desktop\\new century\\exercicio3\\Exercicio3.csproj": {
+    "C:\\Users\\Eliezer Castro\\Desktop\\New Century\\exercicio3\\Exercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eliezer Castro\\desktop\\new century\\exercicio3\\Exercicio3.csproj",
+        "projectUniqueName": "C:\\Users\\Eliezer Castro\\Desktop\\New Century\\exercicio3\\Exercicio3.csproj",
         "projectName": "Exercicio3",
-        "projectPath": "C:\\Users\\Eliezer Castro\\desktop\\new century\\exercicio3\\Exercicio3.csproj",
+        "projectPath": "C:\\Users\\Eliezer Castro\\Desktop\\New Century\\exercicio3\\Exercicio3.csproj",
         "packagesPath": "C:\\Users\\Eliezer Castro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eliezer Castro\\desktop\\new century\\exercicio3\\obj\\",
+        "outputPath": "C:\\Users\\Eliezer Castro\\Desktop\\New Century\\exercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eliezer Castro\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10,7 +10,7 @@ namespace GuessingGame
         int guesses = 0;
         int wins = 0;
         int totalGames = 0;
-        const int maxAttempts = 3; // Maximum attempts allowed
+        const int maxAttempts = 3;
 
         public Form1()
         {
@@ -33,9 +33,9 @@ namespace GuessingGame
             if (i == number)
             {
                 MessageBox.Show("Você acertou!");
-                wins++; // Increment wins when the player guesses correctly
-                totalGames++; // Increment totalGames for each game played
-                CalculateWinRate(); // Update the win rate label
+                wins++;
+                totalGames++;
+                CalculateWinRate();
                 SetNumber();
                 TxtGuess.Text = "";
                 guesses = 0;
@@ -43,8 +43,8 @@ namespace GuessingGame
             else if (guesses >= maxAttempts)
             {
                 MessageBox.Show("Suas tentativas acabaram. O número correto era " + number);
-                totalGames++; // Increment totalGames for each game played
-                CalculateWinRate(); // Update the win rate label
+                totalGames++;
+                CalculateWinRate();
                 SetNumber();
                 TxtGuess.Text = "";
                 guesses = 0;

@@ -11,7 +11,7 @@ namespace Empresa
       int totalVotos = 0;
 
       Console.WriteLine("Qual o melhor Sistema Operacional para uso em servidores?");
-      Console.WriteLine("As possíveis respostas são:");
+      Console.WriteLine("As opções são:");
       for (int i = 0; i < sistemas.Length; i++)
       {
         Console.WriteLine($"{i + 1}- {sistemas[i]}");
